@@ -62,3 +62,9 @@ body {
 .form-group button:hover {
     background-color: #45a049;
 }
+img{
+    position: absolute;
+}
+.login-container{
+    position: relative;
+}
